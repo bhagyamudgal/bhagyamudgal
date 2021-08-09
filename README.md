@@ -31,7 +31,7 @@ I'm a Full-Stack Web Developer and Web Designer. I am experienced in developing 
 
 [![twitter](https://img.shields.io/badge/twitter-5DA9DD?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BhagyaMudgal)
 
-[![leetcode](https://img.shields.io/badge/leetcode-FBC02D?style=for-the-badge&logo=leetcode&logoColor=4C4D52)](https://leetcode.com/bhagya.mudgal)
+[![leetcode](https://img.shields.io/badge/leetcode-FBC02D?style=for-the-badge&logo=leetcode&logoColor=4C4D52)](https://leetcode.com/bhagyamudgal)
 
 [![hankerrank](https://img.shields.io/badge/hacker_rank-1BA94C?style=for-the-badge&logo=hackerrank&logoColor=010101)](https://www.hackerrank.com/bhagyamudgal/)
 
