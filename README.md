@@ -11,7 +11,7 @@ I'm a Full-Stack Web Developer and Web Designer. I am experienced in developing 
 
 ⭐ Web Development: HTML5 | CSS3
 
-⭐ Frameworks & Libraries: Bootstrap | ReactJS | NodeJS | ExpressJS | NextJS 
+⭐ Frameworks & Libraries: Bootstrap | ReactJS | Redux | NodeJS | ExpressJS | NextJS 
 
 ⭐ Databases: MongoDB | MySQL
 
