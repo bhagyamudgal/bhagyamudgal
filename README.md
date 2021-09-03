@@ -7,17 +7,17 @@ I'm a Full-Stack Web Developer and Web Designer. I am experienced in developing 
   
 ## 🛠 Skills
 
-💥 Programming Languages: C Language | C++ | JavaScript
+⭐ Programming Languages: C | C++ | JavaScript | PHP
 
-💥 Web Development: HTML5 | CSS3
+⭐ Web Development: HTML5 | CSS3
 
-💥 Frameworks & Libraries: Bootstrap | ReactJS | NodeJS | ExpressJs | NextJS 
+⭐ Frameworks & Libraries: Bootstrap | ReactJS | NodeJS | ExpressJS | NextJS 
 
-💥 Databases: MongoDB | MySQL
+⭐ Databases: MongoDB | MySQL
 
-💥 Tools: Git | GitHub | Figma | Bootstrap Studio | VS Code
+⭐ Tools: Git | GitHub | Figma | Bootstrap Studio | VS Code
 
-💥 Platforms: Linux | Web | Windows | Amazon Web Services (AWS)
+⭐ Platforms: Linux | Web | Windows | Amazon Web Services (AWS) | Google Firebase
 
 
   
