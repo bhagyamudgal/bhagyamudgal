@@ -6,11 +6,11 @@ I am a college student pursuing graduation in Bachelor’s of Computer Applicati
 
 - 🌱 I’m currently learning **AI and ML using Python**
 
-- 👨‍💻 All of my projects are available at [www.bhagyamudgal.me](www.bhagyamudgal.me)
+- 👨‍💻 All of my projects are available at [www.bhagyamudgal.me](https://www.bhagyamudgal.me)
 
-- 📝 I write articles on [www.bhagyamudgal.me/blog](www.bhagyamudgal.me/blog)
+- 📝 I write articles on [www.bhagyamudgal.me/blog](https://www.bhagyamudgal.me/blog)
 
-- 📫 How to reach me [www.bhagyamudgal.me/contact](www.bhagyamudgal.me/contact)
+- 📫 How to reach me [www.bhagyamudgal.me/contact](https://www.bhagyamudgal.me/contact)
 
 ## 🛠 My Skills
 
@@ -31,6 +31,8 @@ I am a college student pursuing graduation in Bachelor’s of Computer Applicati
 ## ❤️ Support
 <p><a href="https://www.buymeacoffee.com/bhagyamudgal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhagyamudgal" /></a></p><br><br><br>
 
+
+## ⚙️ Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyamudgal&show_icons=true&theme=dark&locale=en&layout=compact" alt="bhagyamudgal" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyamudgal&show_icons=true&theme=dark&locale=en" alt="bhagyamudgal" /></p>
