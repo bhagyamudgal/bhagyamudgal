@@ -33,8 +33,8 @@ I am a college student pursuing graduation in Bachelor’s of Computer Applicati
 
 
 ## ⚙️ Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyamudgal&show_icons=true&theme=dark&locale=en&layout=compact" alt="bhagyamudgal" /></p>
+<p><img align="center" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api/top-langs?username=bhagyamudgal&show_icons=true&theme=dark&locale=en&layout=compact" alt="bhagyamudgal" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyamudgal&show_icons=true&theme=dark&locale=en" alt="bhagyamudgal" /></p>
+<p><img align="center" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api?username=bhagyamudgal&show_icons=true&theme=dark&locale=en" alt="bhagyamudgal" /></p>
 
   
