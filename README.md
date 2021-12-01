@@ -2,7 +2,7 @@
   
 ## 🚀 About Me
 
-I am a college student pursuing graduation in Bachelor’s of Computer Application (BCA) from Maharaja Surajmal Institute, New Delhi. I am a full-stack web developer who loves to create unique and amazing things on the web. I generally use MERN stack for my full-stack projects. I am keen on developing quality software using the latest web technologies. I am passionate about the open-source community and technology. I like learning and playing with new technologies and sharing my knowledge with others by writing content related to my domain. Recently I have started doing freelance web development in my free time.
+I am a college student pursuing graduation in Bachelor’s of Computer Application (BCA) from Maharaja Surajmal Institute, New Delhi. I am a full-stack web developer who loves to create unique and amazing things on the web. I generally use MERN stack for my full-stack projects. I am keen on developing quality software using the latest web technologies. I am passionate about the open-source community and technology. I like learning and playing with new technologies and sharing my knowledge with others by writing content related to my domain.
 
 - 👨‍💻 All of my projects are available at [www.bhagyamudgal.me/projects](https://www.bhagyamudgal.me/projects)
 
