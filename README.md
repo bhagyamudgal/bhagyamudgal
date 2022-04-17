@@ -2,7 +2,7 @@
   
 ## 🚀 About Me
 
-I am a college student pursuing graduation in Bachelor’s of Computer Application (BCA) from Maharaja Surajmal Institute, New Delhi. I am a full-stack web developer who loves to create unique and amazing things on the web. I generally use MERN stack for my full-stack projects. I am keen on developing quality software using the latest web technologies. I am passionate about the open-source community and technology. I like learning and playing with new technologies and sharing my knowledge with others by writing content related to my domain.
+I am currently working as Software Engineer at Solvent Protocol. Our platform provides instant liquidity to some of the listed NFT projects on the Solana blockchain. I am a final year undergraduate student pursuing my graduation in Bachelor’s of Computer Application (BCA) from Maharaja Surajmal Institute, New Delhi. I love to create unique and amazing things on the web. I am keen on developing quality applications using the latest web technologies. I am passionate about the open-source community and technology. I like learning and playing with new technologies and sharing my knowledge with others by writing content related to my domain. Next.js and MERN stack is my expertise. I am learning and exploring the world of Blockchain and Decentralized Finance (DeFi).
 
 - 👨‍💻 All of my projects are available at [www.bhagyamudgal.me/projects](https://www.bhagyamudgal.me/projects)
 
