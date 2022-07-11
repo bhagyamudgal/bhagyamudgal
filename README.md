@@ -2,7 +2,7 @@
   
 ## 🚀 About Me
 
-I am currently working as Software Development Engineer (SDE) at IOTric, working on the NexBloc project, a cross-chain decentralized DNS system. Handling front-end development of NexBloc. I have experience in developing decentralized applications on EVM-compatible chains and Solana. I have a total of 7 months of experience as a Software Engineer working with startups. I am a final year undergraduate student pursuing graduation in Bachelor’s of Computer Application (BCA) from Maharaja Surajmal Institute, New Delhi. I am keen on developing quality web applications using the latest web technologies. I am always eager to learn and work with new technologies and share my knowledge with others. Next.js and Tailwind CSS are my favorite frameworks. I am learning and building in the world of Web3, Blockchain, and Defi.
+I am currently working as Software Development Engineer (SDE) at IOTric, working on the NexBloc project, a cross-chain decentralized DNS system. Handling front-end development of NexBloc. I have experience in developing decentralized applications on EVM-compatible chains and Solana. I am a final year undergraduate student pursuing graduation in Bachelor’s of Computer Application (BCA) from Maharaja Surajmal Institute, New Delhi. I am keen on developing quality web applications using the latest web technologies. I am always eager to learn and work with new technologies and share my knowledge with others. Next.js and Tailwind CSS are my favorite frameworks. I am learning and building in the world of Web3, Blockchain, and Defi.
 
 - 💻 My Portfolio Website [www.bhagyamudgal.me](https://www.bhagyamudgal.me/)
 
