@@ -2,15 +2,15 @@
   
 ## 🚀 About Me
 
-I am currently working as Software Development Engineer (SDE) at IOTric, working on the NexBloc project, a cross-chain decentralized DNS system. Handling front-end development of NexBloc. I have experience in developing decentralized applications on EVM-compatible chains and Solana. I am a final year undergraduate student pursuing graduation in Bachelor’s of Computer Application (BCA) from Maharaja Surajmal Institute, New Delhi. I am keen on developing quality web applications using the latest web technologies. I am always eager to learn and work with new technologies and share my knowledge with others. Next.js and Tailwind CSS are my favorite frameworks. I am learning and building in the world of Web3, Blockchain, and Defi.
+I am currently working as Software Engineer at KAPX. I have experience in developing decentralized applications on both Solana and EVM-compatible blockchains. I am keen on developing quality web applications using the latest web technologies. I am always eager to learn and work with new technologies and share my knowledge with others.
 
-- 💻 My Portfolio Website [www.bhagyamudgal.me](https://www.bhagyamudgal.me/)
+- 💻 My Portfolio Website [www.bhagyamudgal.com](https://www.bhagyamudgal.com/)
 
-- 👨‍💻 All of my projects are available at [www.bhagyamudgal.me/projects](https://www.bhagyamudgal.me/projects)
+- 👨‍💻 All of my projects are available at [www.bhagyamudgal.com/projects](https://www.bhagyamudgal.com/projects)
 
-- 📝 I write articles on [www.bhagyamudgal.me/blog](https://www.bhagyamudgal.me/blog)
+- 📝 I write articles on [www.bhagyamudgal.com/blog](https://www.bhagyamudgal.com/blog)
 
-- 📫 How to reach me [www.bhagyamudgal.me/contact](https://www.bhagyamudgal.me/contact)
+- 📫 How to reach me [www.bhagyamudgal.com/contact](https://www.bhagyamudgal.com/contact)
 
 
 ## 🔗 Connect With Me
