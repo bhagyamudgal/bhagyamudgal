@@ -2,7 +2,7 @@
   
 ## 🚀 About Me
 
-Hi there! My name is Bhagya Mudgal, and I am a Software Engineer at KAPX. I have experience in developing decentralized applications on Solana and EVM-compatible blockchains and am passionate about using the latest web technologies to build high-quality web applications. In addition to my professional experience, I am always eager to learn and work with new technologies and share my knowledge with others. I am excited to continue growing and learning in my field, and I look forward to connecting with others who share my interests.
+I am a Software Engineer at KAPX. I have experience in developing decentralized applications on Solana and EVM-compatible blockchains and am passionate about using the latest web technologies to build high-quality web applications. In addition to my professional experience, I am always eager to learn and work with new technologies and share my knowledge with others. I am excited to continue growing and learning in my field, and I look forward to connecting with others who share my interests.
 
 - 💻 My Portfolio Website [www.bhagyamudgal.com](https://www.bhagyamudgal.com/)
 
