@@ -32,4 +32,7 @@ I am a Software Engineer at KAPX. I have experience in developing decentralized 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyamudgal&theme=github-dark-blue" alt="bhagyamudgal-streak-stats" /></p>
 
+<span><img src="https://komarev.com/ghpvc/?username=bhagyamudgal"></span>
+<a href="https://github.com/bhagyamudgal?tab=followers"><img src="https://img.shields.io/github/followers/bhagyamudgal?label=Followers&style=social" alt="GitHub Badge"></a>
+
   
