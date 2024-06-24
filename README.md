@@ -21,9 +21,6 @@ I am a Software Engineer at KAPX. I have experience in developing decentralized 
 <a href="https://instagram.com/bhagyamudgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhagyamudgal" height="30" width="40" style="margin-right:10px" /></a>
 </p>
 
-## ❤️ Support
-<p><a href="https://www.buymeacoffee.com/bhagyamudgal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhagyamudgal" /></a></p><br><br><br>
-
 
 ## ⚙️ Stats
 <p><img align="center" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api/top-langs?username=bhagyamudgal&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=10" alt="bhagyamudgal-top-langs-stats" /></p>
