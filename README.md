@@ -12,7 +12,7 @@
 
 <p><img align="center" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api?username=bhagyamudgal&count_private=true&show_icons=true&theme=github_dark&locale=en" alt="bhagyamudgal-stats" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=bhagyamudgal&theme=github-dark-blue" alt="bhagyamudgal-streak-stats" /></p>
+<p><img align="center" src="https://bhagya-mudgal-github-readme-streak-stats.vercel.app/?user=bhagyamudgal&theme=github-dark-blue" alt="bhagyamudgal-streak-stats" /></p>
 
 <span><img src="https://komarev.com/ghpvc/?username=bhagyamudgal"></span>
 <a href="https://github.com/bhagyamudgal?tab=followers"><img src="https://img.shields.io/github/followers/bhagyamudgal?label=Followers&style=social" alt="GitHub Badge"></a>
