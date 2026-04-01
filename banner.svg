@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" fill="none">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8BE9FD"/>
+      <stop offset="100%" stop-color="#BD93F9"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E1F29"/>
+      <stop offset="50%" stop-color="#282A36"/>
+      <stop offset="100%" stop-color="#1E1F29"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="220" rx="12" fill="url(#bgGrad)"/>
+
+  <!-- Terminal chrome bar -->
+  <rect width="800" height="36" rx="12" fill="#44475A"/>
+  <rect y="12" width="800" height="24" fill="#44475A"/>
+
+  <!-- macOS dots -->
+  <circle cx="20" cy="18" r="6" fill="#FF5555"/>
+  <circle cx="38" cy="18" r="6" fill="#FFB86C"/>
+  <circle cx="56" cy="18" r="6" fill="#50FA7B"/>
+
+  <!-- Terminal title -->
+  <text x="400" y="22" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="12" fill="#6272A4">~/bhagya</text>
+
+  <!-- Code particle watermarks -->
+  <text x="60" y="70" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">const</text>
+  <text x="180" y="190" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">=&gt;</text>
+  <text x="650" y="75" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">{}</text>
+  <text x="720" y="180" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">async</text>
+  <text x="90" y="140" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">import</text>
+  <text x="550" y="130" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">fn</text>
+  <text x="350" y="200" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">&lt;/&gt;</text>
+  <text x="480" y="70" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">type</text>
+  <text x="300" y="80" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">return</text>
+  <text x="680" y="110" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">export</text>
+  <text x="130" y="200" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">await</text>
+  <text x="580" y="195" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#6272A4" opacity="0.07">let</text>
+
+  <!-- Name -->
+  <text x="400" y="108" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="700">
+    <tspan fill="#F8F8F2">Bhagya </tspan><tspan fill="url(#nameGrad)">Mudgal</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="400" y="138" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="14">
+    <tspan fill="#BD93F9">// </tspan><tspan fill="#6272A4">crafting scalable solutions</tspan>
+  </text>
+
+  <!-- Links -->
+  <text x="400" y="175" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="12" fill="#6272A4">
+    <tspan fill="#8BE9FD">bhagya.dev</tspan>
+    <tspan fill="#44475A">  ·  </tspan>
+    <tspan fill="#8BE9FD">@bhagyamudgal</tspan>
+    <tspan fill="#44475A">  ·  </tspan>
+    <tspan fill="#8BE9FD">hey@bhagya.dev</tspan>
+  </text>
+</svg>
